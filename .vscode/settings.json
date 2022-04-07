@@ -9,10 +9,8 @@
       "port": 3306,
       "driver": "MySQL",
       "name": "BlueMoon",
-      "group": "admin",
-      "database": "B16_DEV",
-      "username": "Admin",
-      "connectionTimeout": 10,
+      "database": "bm_db",
+      "username": "root",
       "password": ""
     }
   ]
