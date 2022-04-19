@@ -1,7 +1,7 @@
 {
-  "name": "sholo-ana-bangalee-rest-api",
+  "name": "bluemoon-rest-api",
   "version": "1.0.0",
-  "description": "Sholo Ana Banglaee REST API",
+  "description": "Bluemoon REST API",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

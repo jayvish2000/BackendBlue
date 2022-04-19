@@ -12,6 +12,72 @@
       "database": "bm_db",
       "username": "root",
       "password": ""
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "test",
+      "database": "test",
+      "username": "root",
+      "connectionTimeout": 2000,
+      "password": ""
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "Backend",
+      "database": "bm_db",
+      "username": "root",
+      "password": ""
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "database": "test",
+      "name": "Backend",
+      "username": "root",
+      "password": ""
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "Backend",
+      "database": "bm_db",
+      "username": "root",
+      "password": ""
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "BlueMoon",
+      "database": "bm_db",
+      "username": "root",
+      "password": ""
     }
   ]
 }
